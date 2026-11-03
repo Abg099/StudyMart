@@ -28,10 +28,10 @@ export default function Footer() {
         {/* Logo and Description */}
         <div>
           <img
-            src="public/assets/studylogo.png"
-            alt="StudyMart logo"
-            className="h-12 w-auto"
-          />
+  src="/assets/studylogo.png"
+  alt="StudyMart logo"
+  className="h-12 w-auto"
+/>
 
           <p className="mt-3 max-w-xs text-sm leading-6 text-slate-500">
             A shared marketplace for students, local shops and everyday essentials.

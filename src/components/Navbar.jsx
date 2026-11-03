@@ -72,14 +72,11 @@ export default function Navbar() {
       <div className="mx-auto flex max-w-7xl items-center justify-between gap-3 px-4 py-3 sm:px-6 lg:px-8">
 
         {/* Logo */}
-        <Link to="/" aria-label="StudyMart home">
-          <img
-            src="public/assets/studylogo.png"
-            alt="StudyMart logo"
-            className="h-14 w-auto"
-          />
-        </Link>
-
+        <img
+  src="/assets/Studylogo.png"
+  alt="StudyMart logo"
+  className="h-14 w-auto"
+/>
         {/* Desktop navigation */}
         <nav className="hidden items-center gap-5 text-sm font-semibold text-slate-600 lg:flex">
           {navLinks.map((item) => (
