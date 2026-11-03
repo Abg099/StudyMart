@@ -28,7 +28,7 @@ export default function Footer() {
         {/* Logo and Description */}
         <div>
           <img
-  src="/assets/studylogo.png"
+  src="/assets/Studylogo.png"
   alt="StudyMart logo"
   className="h-12 w-auto"
 />
